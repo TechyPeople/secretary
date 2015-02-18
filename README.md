@@ -1,0 +1,1 @@
+this repo contains the website for my sophomore class secretary election website thing.  that's pretty much it.
